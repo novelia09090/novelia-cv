@@ -1,0 +1,31 @@
+{
+  "academicIdentity": {
+    "nama": "Novelia Septiani",
+    "nim": "242605002",
+    "programStudi": "Sistem Informasi",
+    "mataKuliah": "Pemrograman Mobile 2",
+    "dosen": "Iin, M.Kom"
+  },
+  "currentScore": {
+    "nilai": 89,
+    "grade": "A"
+  },
+  "learningPoints": 12375,
+  "learningProgress": [
+    { "id": "1", "nama": "Attendance", "persentase": 100 },
+    { "id": "2", "nama": "Practice", "persentase": 87 },
+    { "id": "3", "nama": "Quest", "persentase": 95 },
+    { "id": "4", "nama": "Challenge", "persentase": 100 }
+  ],
+  "courses": [
+    { "id": "1", "nama": "Manajemen Risiko TI" },
+    { "id": "2", "nama": "KPAM V (Korespondensi)" },
+    { "id": "3", "nama": "Bahasa Inggris III (Conversation)" },
+    { "id": "4", "nama": "Rekayasa Sistem Informasi" },
+    { "id": "5", "nama": "Leadership & Communication Skill" },
+    { "id": "6", "nama": "Testing & Implementasi Sistem Informasi" },
+    { "id": "7", "nama": "Statistika Komputasi" },
+    { "id": "8", "nama": "Kontrol dan Audit Sistem Informasi" },
+    { "id": "9", "nama": "Pemrograman Mobile 2" }
+  ]
+}

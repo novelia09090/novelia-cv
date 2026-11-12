@@ -1,0 +1,123 @@
+{
+  "profileData": {
+    "nama": "Novelia Septiani",
+    "nim": "242605002",
+    "jurusan": "Sistem Informasi",
+    "pekerjaan": "Information Systems Student",
+    "semester": "Semester 5",
+    "deskripsi": "Halo! Saya Novelia Septiani, mahasiswa Program Studi Sistem Informasi. Saya tertarik mempelajari perkembangan teknologi, pengembangan aplikasi mobile, dan dunia digital. Saya senang mencoba hal baru, menambah pengalaman, serta mengembangkan kemampuan diri."
+  },
+  "interestData": [
+    {
+      "id": "1",
+      "icon": "📱",
+      "judul": "Mobile App Development",
+      "deskripsi": "Mempelajari pembuatan aplikasi mobile yang menarik dan bermanfaat."
+    },
+    {
+      "id": "2",
+      "icon": "🌐",
+      "judul": "Information Technology",
+      "deskripsi": "Mengenal perkembangan teknologi dan pemanfaatannya dalam kehidupan."
+    }
+  ],
+  "hobbyData": [
+    {
+      "id": "1",
+      "emoji": "📚",
+      "judul": "Reading Comics",
+      "deskripsi": "Enjoying stories"
+    },
+    {
+      "id": "2",
+      "emoji": "🎧",
+      "judul": "Listening Music",
+      "deskripsi": "Enjoying melodies"
+    }
+  ],
+  "skillsData": [
+    {
+      "id": "1",
+      "nama": "HTML & CSS",
+      "icon": "🌐",
+      "level": 75,
+      "deskripsi": "Memahami dasar pembuatan dan desain halaman web."
+    },
+    {
+      "id": "2",
+      "nama": "JavaScript",
+      "icon": "💻",
+      "level": 65,
+      "deskripsi": "Memahami dasar JavaScript dan logika pemrograman."
+    },
+    {
+      "id": "3",
+      "nama": "React Native",
+      "icon": "📱",
+      "level": 60,
+      "deskripsi": "Mempelajari pembuatan aplikasi mobile."
+    },
+    {
+      "id": "4",
+      "nama": "UI Design",
+      "icon": "🎨",
+      "level": 70,
+      "deskripsi": "Membuat tampilan aplikasi yang rapi dan mudah digunakan."
+    }
+  ],
+  "portfolioData": [
+    {
+      "id": "1",
+      "judul": "Personal CV & Academic Score App",
+      "kategori": "Mobile Application",
+      "icon": "👩🏻‍💻",
+      "deskripsi": "Aplikasi CV pribadi yang menampilkan profil, minat, keterampilan, hobi, dan formulir kontak.",
+      "teknologi": "React Native, Expo, TypeScript"
+    },
+    {
+      "id": "2",
+      "judul": "Sistem Informasi Absensi PHL",
+      "kategori": "Web Application",
+      "icon": "📋",
+      "deskripsi": "Sistem informasi untuk membantu proses pencatatan dan pengelolaan absensi PHL Polsek Cicalengka.",
+      "teknologi": "Laravel, PHP, MySQL"
+    },
+    {
+      "id": "3",
+      "judul": "Sweet Cupcake Shop",
+      "kategori": "Mobile Application",
+      "icon": "🧁",
+      "deskripsi": "Proyek aplikasi toko cupcake dengan tampilan produk dan konsep toko digital.",
+      "teknologi": "React Native, Expo"
+    }
+  ],
+  "experienceData": [
+    {
+      "id": "1",
+      "tahun": "Saat ini",
+      "judul": "Mahasiswa Sistem Informasi",
+      "tempat": "Universitas Ma'soem",
+      "kategori": "Pendidikan",
+      "icon": "🎓",
+      "deskripsi": "Sedang menempuh pendidikan semester 5 pada Program Studi Sistem Informasi dan mempelajari berbagai bidang teknologi informasi."
+    },
+    {
+      "id": "2",
+      "tahun": "Project Akademik",
+      "judul": "Mobile App Development",
+      "tempat": "Pemrograman Mobile",
+      "kategori": "Pengalaman Belajar",
+      "icon": "📱",
+      "deskripsi": "Mempelajari pengembangan aplikasi mobile menggunakan React Native, Expo, komponen, Props, dan pengelolaan data JSON."
+    },
+    {
+      "id": "3",
+      "tahun": "Project Akademik",
+      "judul": "Pengembangan Sistem Informasi Absensi",
+      "tempat": "Proyek PKL Polsek Cicalengka",
+      "kategori": "Pengalaman Proyek",
+      "icon": "💻",
+      "deskripsi": "Mempelajari pengembangan sistem informasi absensi PHL menggunakan Laravel, PHP, dan MySQL."
+    }
+  ]
+}
